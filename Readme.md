@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
 <!-- default file list end -->
 # ASPxRichEdit - How to insert RTF text to a document
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/t532651/)**
+<!-- run online end -->
 
 <p>Starting with version 18.1, the ASPxRichEdit control provides the <a href="https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxRichEdit.Scripts.RichEditCommands.insertRtf">insertRtf</a> command, which allows you to add formatted RTF content at the specified position.
 </p>
