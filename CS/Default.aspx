@@ -21,7 +21,6 @@
 <body>
     <form id="form1" runat="server">
     <div>
-    
         <dx:ASPxRichEdit ID="ASPxRichEdit1" ClientInstanceName="richEdit" runat="server" WorkDirectory="~\App_Data\WorkDirectory" 
             OnCallback="ASPxRichEdit1_Callback"
             OnCustomJSProperties="ASPxRichEdit1_CustomJSProperties">
@@ -37,7 +36,6 @@
         <dx:ASPxButton runat="server" ID="serverButton" Text="Insert RTF text on the server side" AutoPostBack="false">
             <ClientSideEvents Click="onServerButtonClick" />
         </dx:ASPxButton>
-    
     </div>
     </form>
 </body>
